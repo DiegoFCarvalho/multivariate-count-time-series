@@ -1,0 +1,123 @@
+dgp,parameter,i,j,value,label
+minar1_poi,A,1,1,0.29999999999999999,
+minar1_poi,A,2,1,0.17999999999999999,
+minar1_poi,A,3,1,0.059999999999999998,
+minar1_poi,A,1,2,0.14999999999999999,
+minar1_poi,A,2,2,0.27000000000000002,
+minar1_poi,A,3,2,0.10000000000000001,
+minar1_poi,A,1,3,0.089999999999999997,
+minar1_poi,A,2,3,0.23000000000000001,
+minar1_poi,A,3,3,0.25,
+minar1_poi,lambda,1,1,1,
+minar1_poi,lambda,2,1,1,
+minar1_poi,lambda,3,1,5,
+minar1_poi,lambda,4,1,3,
+minar1_negbin,A,1,1,0.29999999999999999,
+minar1_negbin,A,2,1,0.17999999999999999,
+minar1_negbin,A,3,1,0.059999999999999998,
+minar1_negbin,A,1,2,0.14999999999999999,
+minar1_negbin,A,2,2,0.27000000000000002,
+minar1_negbin,A,3,2,0.10000000000000001,
+minar1_negbin,A,1,3,0.089999999999999997,
+minar1_negbin,A,2,3,0.23000000000000001,
+minar1_negbin,A,3,3,0.25,
+minar1_negbin,r,1,1,5,
+minar1_negbin,p,1,1,0.14999999999999999,
+minar1_negbin,p,2,1,0.29999999999999999,
+minar1_negbin,p,3,1,0.25,
+mdacp1,omega,1,1,2.25,
+mdacp1,omega,2,1,1.75,
+mdacp1,omega,3,1,3,
+mdacp1,gamma,1,1,0.12,
+mdacp1,gamma,2,1,0.089999999999999997,
+mdacp1,gamma,3,1,0.10000000000000001,
+mdacp1,gamma,1,2,0.10000000000000001,
+mdacp1,gamma,2,2,0.14999999999999999,
+mdacp1,gamma,3,2,0.080000000000000002,
+mdacp1,delta,1,1,1,
+mdacp1,delta,2,1,0,
+mdacp1,delta,3,1,0.59999999999999998,
+mdacp1,delta,1,2,0,
+mdacp1,delta,2,2,1,
+mdacp1,delta,3,2,0.29999999999999999,
+mdacp1,alpha,1,1,0.12,
+mdacp1,alpha,2,1,0.25,
+mdacp1,alpha,3,1,0.17999999999999999,
+mdacp1,beta,1,1,0.25,
+mdacp1,beta,2,1,0.34999999999999998,
+mdacp1,beta,3,1,0.40000000000000002,
+mdacp1,phi,1,1,2.25,
+mdacp1,phi,2,1,2.1499999999999999,
+mdacp1,phi,3,1,1.8500000000000001,
+mdacp1,Sigma,1,1,1,
+mdacp1,Sigma,2,1,0.25,
+mdacp1,Sigma,3,1,-0.20000000000000001,
+mdacp1,Sigma,1,2,0.25,
+mdacp1,Sigma,2,2,1,
+mdacp1,Sigma,3,2,0.14999999999999999,
+mdacp1,Sigma,1,3,-0.20000000000000001,
+mdacp1,Sigma,2,3,0.14999999999999999,
+mdacp1,Sigma,3,3,1,
+mcar1,omega,1,1,0.5,
+mcar1,omega,2,1,1,
+mcar1,omega,3,1,2.75,
+mcar1,A,1,1,0.25,
+mcar1,A,2,1,0.12,
+mcar1,A,3,1,0.14000000000000001,
+mcar1,A,1,2,0.17000000000000001,
+mcar1,A,2,2,0.20000000000000001,
+mcar1,A,3,2,0.13,
+mcar1,A,1,3,0.14999999999999999,
+mcar1,A,2,3,0.19,
+mcar1,A,3,3,0.14999999999999999,
+mcar1,B,1,1,0.20000000000000001,
+mcar1,B,2,1,0.050000000000000003,
+mcar1,B,3,1,0.070000000000000007,
+mcar1,B,1,2,0.080000000000000002,
+mcar1,B,2,2,0.14999999999999999,
+mcar1,B,3,2,0.040000000000000001,
+mcar1,B,1,3,0.089999999999999997,
+mcar1,B,2,3,0.029999999999999999,
+mcar1,B,3,3,0.29999999999999999,
+mcar1,copula_param,1,1,-0.29999999999999999,
+mcar1,copula_param,2,1,-0.45000000000000001,
+mcar1,copula_param,3,1,-0.20000000000000001,
+svine1,margin_lambda,1,1,5,poisson
+svine1,margin_lambda,2,1,7,poisson
+svine1,margin_lambda,3,1,9,poisson
+svine1,pair_copula,1,1,2,clayton 0
+svine1,pair_copula,1,2,2.5,clayton 0
+svine1,pair_copula,1,3,3,clayton 0
+svine1,pair_copula,1,4,2,clayton 0
+svine1,pair_copula,1,5,2.5,clayton 0
+svine1,pair_copula,1,6,3,clayton 0
+svine1,pair_copula,1,7,2,clayton 0
+svine1,pair_copula,1,8,2.5,clayton 0
+svine1,pair_copula,2,1,NA,indep 0
+svine1,pair_copula,2,2,NA,indep 0
+svine1,pair_copula,2,3,NA,indep 0
+svine1,pair_copula,2,4,NA,indep 0
+svine1,pair_copula,2,5,NA,indep 0
+svine1,pair_copula,2,6,NA,indep 0
+svine1,pair_copula,2,7,NA,indep 0
+svine1,pair_copula,3,1,NA,indep 0
+svine1,pair_copula,3,2,NA,indep 0
+svine1,pair_copula,3,3,NA,indep 0
+svine1,pair_copula,3,4,NA,indep 0
+svine1,pair_copula,3,5,NA,indep 0
+svine1,pair_copula,3,6,NA,indep 0
+svine1,pair_copula,4,1,NA,indep 0
+svine1,pair_copula,4,2,NA,indep 0
+svine1,pair_copula,4,3,2,clayton 0
+svine1,pair_copula,4,4,NA,indep 0
+svine1,pair_copula,4,5,NA,indep 0
+svine1,pair_copula,5,1,NA,indep 0
+svine1,pair_copula,5,2,NA,indep 0
+svine1,pair_copula,5,3,NA,indep 0
+svine1,pair_copula,5,4,NA,indep 0
+svine1,pair_copula,6,1,NA,indep 0
+svine1,pair_copula,6,2,NA,indep 0
+svine1,pair_copula,6,3,NA,indep 0
+svine1,pair_copula,7,1,NA,indep 0
+svine1,pair_copula,7,2,NA,indep 0
+svine1,pair_copula,8,1,NA,indep 0

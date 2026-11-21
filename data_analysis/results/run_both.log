@@ -1,0 +1,45 @@
+S-vine models: svines_exact, svines_scaled
+root_dir:    C:/Work/r_scripts/data_analysis_merged
+results_dir: C:/Work/r_scripts/data_analysis_merged/results
+plots_dir:   C:/Work/r_scripts/data_analysis_merged/plots
+K = 500, n_train = 85, skip_if_exists = TRUE
+[data] outputs exist, skipped
+[svines] start
+[svines_exact] C1 done in 254s (fit status converged)
+[svines_exact] C2 done in 188s (fit status converged)
+[svines_exact] C3 done in 77s (fit status converged)
+[svines_exact] C4 done in 148s (fit status converged)
+[svines_exact] C5 done in 68s (fit status converged)
+[svines_scaled] C1 done in 72s (fit status converged)
+[svines_scaled] C2 done in 76s (fit status converged)
+[svines_scaled] C3 done in 120s (fit status converged)
+[svines_scaled] C4 done in 77s (fit status converged)
+[svines_scaled] C5 done in 69s (fit status converged)
+[svines] done in 1148s
+Es gab 42 Warnungen (Anzeige mit warnings())
+[mdacp] start
+[mdacp1] C1 done in 319s (fit status converged)
+[mdacp1] C2 done in 190s (fit status converged)
+[mdacp1] C3 done in 301s (fit status converged)
+[mdacp1] C4 done in 185s (fit status converged)
+[mdacp1] C5 done in 452s (fit status converged)
+[mdacp] done in 1447s
+Es gab 20 Warnungen (Anzeige mit warnings())
+[kim] start
+[kim] C1 done in 20s (minimum ESS 97)
+[kim] C2 done in 20s (minimum ESS 98)
+[kim] C3 done in 19s (minimum ESS 100)
+[kim] C4 done in 21s (minimum ESS 100)
+[kim] C5 done in 19s (minimum ESS 100)
+[kim] done in 100s
+Warnmeldung:
+Paket 'polynom' wurde unter R Version 4.6.1 erstellt 
+[metrics] start
+check: max |item-day mean - group value| = 0
+[metrics] done in 1s
+[plots] start
+[plots] done in 27s
+Es gab 36 Warnungen (Anzeige mit warnings())
+[diagnostics] start
+[diagnostics] done in 5s
+exit 0

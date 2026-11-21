@@ -1,0 +1,164 @@
+"model","group","kind","item","family","params","count"
+"svines_exact","C1","margin","lazy","empirical","0.024; 0.047; 0.106; 0.341; 0.482",NA
+"svines_exact","C1","margin","industrious","empirical","0.024; 0.129; 0.106; 0.365; 0.376",NA
+"svines_exact","C1","margin","persistent","empirical","0.082; 0.176; 0.094; 0.365; 0.282",NA
+"svines_exact","C1","margin","reckless","empirical","0.035; 0.282; 0.165; 0.318; 0.200",NA
+"svines_exact","C1","margin","changeable","empirical","0.024; 0.106; 0.141; 0.271; 0.459",NA
+"svines_exact","C1","margin","responsible","empirical","0.012; 0.094; 0.259; 0.435; 0.200",NA
+"svines_exact","C1","margin_family_count",NA,"empirical",NA,6
+"svines_exact","C1","pair_copula_count",NA,"bb8",NA,1
+"svines_exact","C1","pair_copula_count",NA,"clayton",NA,12
+"svines_exact","C1","pair_copula_count",NA,"frank",NA,12
+"svines_exact","C1","pair_copula_count",NA,"gaussian",NA,10
+"svines_exact","C1","pair_copula_count",NA,"gumbel",NA,4
+"svines_exact","C1","pair_copula_count",NA,"indep",NA,83
+"svines_exact","C1","pair_copula_count",NA,"joe",NA,21
+"svines_exact","C1","pair_copula_count",NA,"t",NA,10
+"svines_exact","C1","copula_parameters",NA,NA,NA,40
+"svines_exact","C2","margin","dynamic","empirical","0.188; 0.212; 0.271; 0.271; 0.059",NA
+"svines_exact","C2","margin","sociable","empirical","0.141; 0.224; 0.247; 0.259; 0.129",NA
+"svines_exact","C2","margin","shy","empirical","0.012; 0.106; 0.259; 0.412; 0.212",NA
+"svines_exact","C2","margin","silent","empirical","0.047; 0.259; 0.224; 0.353; 0.118",NA
+"svines_exact","C2","margin","lively","empirical","0.118; 0.235; 0.259; 0.318; 0.071",NA
+"svines_exact","C2","margin","reserved","empirical","0.024; 0.224; 0.294; 0.306; 0.153",NA
+"svines_exact","C2","margin_family_count",NA,"empirical",NA,6
+"svines_exact","C2","pair_copula_count",NA,"bb8",NA,3
+"svines_exact","C2","pair_copula_count",NA,"clayton",NA,19
+"svines_exact","C2","pair_copula_count",NA,"frank",NA,12
+"svines_exact","C2","pair_copula_count",NA,"gaussian",NA,12
+"svines_exact","C2","pair_copula_count",NA,"gumbel",NA,5
+"svines_exact","C2","pair_copula_count",NA,"indep",NA,75
+"svines_exact","C2","pair_copula_count",NA,"joe",NA,15
+"svines_exact","C2","pair_copula_count",NA,"t",NA,9
+"svines_exact","C2","pair_copula_count",NA,"tawn",NA,3
+"svines_exact","C2","copula_parameters",NA,NA,NA,47
+"svines_exact","C3","margin","selfish","empirical","0.012; 0.141; 0.294; 0.341; 0.212",NA
+"svines_exact","C3","margin","goodnatured","empirical","0.035; 0.082; 0.165; 0.471; 0.247",NA
+"svines_exact","C3","margin","domineering","empirical","0.000; 0.012; 0.024; 0.141; 0.824",NA
+"svines_exact","C3","margin","helpful","empirical","0.000; 0.094; 0.271; 0.506; 0.129",NA
+"svines_exact","C3","margin","obstinate","empirical","0.012; 0.024; 0.047; 0.141; 0.776",NA
+"svines_exact","C3","margin","considerate","empirical","0.000; 0.200; 0.329; 0.435; 0.035",NA
+"svines_exact","C3","margin_family_count",NA,"empirical",NA,6
+"svines_exact","C3","pair_copula_count",NA,"clayton",NA,1
+"svines_exact","C3","pair_copula_count",NA,"frank",NA,6
+"svines_exact","C3","pair_copula_count",NA,"gaussian",NA,23
+"svines_exact","C3","pair_copula_count",NA,"gumbel",NA,3
+"svines_exact","C3","pair_copula_count",NA,"indep",NA,100
+"svines_exact","C3","pair_copula_count",NA,"joe",NA,18
+"svines_exact","C3","pair_copula_count",NA,"t",NA,2
+"svines_exact","C3","copula_parameters",NA,NA,NA,30
+"svines_exact","C4","margin","unimaginative","empirical","0.000; 0.094; 0.294; 0.494; 0.118",NA
+"svines_exact","C4","margin","witty","empirical","0.047; 0.188; 0.435; 0.294; 0.035",NA
+"svines_exact","C4","margin","knowledgeable","empirical","0.024; 0.118; 0.388; 0.388; 0.082",NA
+"svines_exact","C4","margin","prudent","empirical","0.012; 0.035; 0.871; 0.082; 0.000",NA
+"svines_exact","C4","margin","fanciless","empirical","0.000; 0.059; 0.412; 0.412; 0.118",NA
+"svines_exact","C4","margin","uninformed","empirical","0.012; 0.047; 0.318; 0.506; 0.118",NA
+"svines_exact","C4","margin_family_count",NA,"empirical",NA,6
+"svines_exact","C4","pair_copula_count",NA,"bb6",NA,2
+"svines_exact","C4","pair_copula_count",NA,"clayton",NA,5
+"svines_exact","C4","pair_copula_count",NA,"frank",NA,15
+"svines_exact","C4","pair_copula_count",NA,"gaussian",NA,9
+"svines_exact","C4","pair_copula_count",NA,"gumbel",NA,4
+"svines_exact","C4","pair_copula_count",NA,"indep",NA,88
+"svines_exact","C4","pair_copula_count",NA,"joe",NA,16
+"svines_exact","C4","pair_copula_count",NA,"t",NA,11
+"svines_exact","C4","pair_copula_count",NA,"tawn",NA,3
+"svines_exact","C4","copula_parameters",NA,NA,NA,40
+"svines_exact","C5","margin","irritable","empirical","0.129; 0.353; 0.247; 0.165; 0.106",NA
+"svines_exact","C5","margin","emotionallystable","empirical","0.176; 0.318; 0.224; 0.165; 0.118",NA
+"svines_exact","C5","margin","calm","empirical","0.224; 0.294; 0.153; 0.224; 0.106",NA
+"svines_exact","C5","margin","badtempered","empirical","0.424; 0.365; 0.176; 0.035; 0.000",NA
+"svines_exact","C5","margin","resistant","empirical","0.024; 0.200; 0.388; 0.224; 0.165",NA
+"svines_exact","C5","margin","vulnerable","empirical","0.106; 0.435; 0.153; 0.212; 0.094",NA
+"svines_exact","C5","margin_family_count",NA,"empirical",NA,6
+"svines_exact","C5","pair_copula_count",NA,"clayton",NA,18
+"svines_exact","C5","pair_copula_count",NA,"frank",NA,3
+"svines_exact","C5","pair_copula_count",NA,"gaussian",NA,4
+"svines_exact","C5","pair_copula_count",NA,"gumbel",NA,10
+"svines_exact","C5","pair_copula_count",NA,"indep",NA,84
+"svines_exact","C5","pair_copula_count",NA,"joe",NA,26
+"svines_exact","C5","pair_copula_count",NA,"t",NA,1
+"svines_exact","C5","pair_copula_count",NA,"tawn",NA,7
+"svines_exact","C5","copula_parameters",NA,NA,NA,43
+"svines_scaled","C1","margin","lazy","empirical","",NA
+"svines_scaled","C1","margin","industrious","empirical","",NA
+"svines_scaled","C1","margin","persistent","empirical","",NA
+"svines_scaled","C1","margin","reckless","empirical","",NA
+"svines_scaled","C1","margin","changeable","empirical","",NA
+"svines_scaled","C1","margin","responsible","empirical","",NA
+"svines_scaled","C1","margin_family_count",NA,"empirical",NA,6
+"svines_scaled","C1","pair_copula_count",NA,"clayton",NA,8
+"svines_scaled","C1","pair_copula_count",NA,"frank",NA,7
+"svines_scaled","C1","pair_copula_count",NA,"gaussian",NA,15
+"svines_scaled","C1","pair_copula_count",NA,"gumbel",NA,4
+"svines_scaled","C1","pair_copula_count",NA,"indep",NA,83
+"svines_scaled","C1","pair_copula_count",NA,"joe",NA,24
+"svines_scaled","C1","pair_copula_count",NA,"t",NA,7
+"svines_scaled","C1","pair_copula_count",NA,"tawn",NA,5
+"svines_scaled","C1","copula_parameters",NA,NA,NA,44
+"svines_scaled","C2","margin","dynamic","empirical","",NA
+"svines_scaled","C2","margin","sociable","empirical","",NA
+"svines_scaled","C2","margin","shy","empirical","",NA
+"svines_scaled","C2","margin","silent","empirical","",NA
+"svines_scaled","C2","margin","lively","empirical","",NA
+"svines_scaled","C2","margin","reserved","empirical","",NA
+"svines_scaled","C2","margin_family_count",NA,"empirical",NA,6
+"svines_scaled","C2","pair_copula_count",NA,"bb1",NA,2
+"svines_scaled","C2","pair_copula_count",NA,"bb8",NA,3
+"svines_scaled","C2","pair_copula_count",NA,"clayton",NA,14
+"svines_scaled","C2","pair_copula_count",NA,"frank",NA,11
+"svines_scaled","C2","pair_copula_count",NA,"gaussian",NA,13
+"svines_scaled","C2","pair_copula_count",NA,"gumbel",NA,7
+"svines_scaled","C2","pair_copula_count",NA,"indep",NA,80
+"svines_scaled","C2","pair_copula_count",NA,"joe",NA,12
+"svines_scaled","C2","pair_copula_count",NA,"t",NA,8
+"svines_scaled","C2","pair_copula_count",NA,"tawn",NA,3
+"svines_scaled","C2","copula_parameters",NA,NA,NA,46
+"svines_scaled","C3","margin","selfish","empirical","",NA
+"svines_scaled","C3","margin","goodnatured","empirical","",NA
+"svines_scaled","C3","margin","domineering","empirical","",NA
+"svines_scaled","C3","margin","helpful","empirical","",NA
+"svines_scaled","C3","margin","obstinate","empirical","",NA
+"svines_scaled","C3","margin","considerate","empirical","",NA
+"svines_scaled","C3","margin_family_count",NA,"empirical",NA,6
+"svines_scaled","C3","pair_copula_count",NA,"clayton",NA,2
+"svines_scaled","C3","pair_copula_count",NA,"gaussian",NA,14
+"svines_scaled","C3","pair_copula_count",NA,"gumbel",NA,11
+"svines_scaled","C3","pair_copula_count",NA,"indep",NA,91
+"svines_scaled","C3","pair_copula_count",NA,"joe",NA,27
+"svines_scaled","C3","pair_copula_count",NA,"t",NA,5
+"svines_scaled","C3","pair_copula_count",NA,"tawn",NA,3
+"svines_scaled","C3","copula_parameters",NA,NA,NA,37
+"svines_scaled","C4","margin","unimaginative","empirical","",NA
+"svines_scaled","C4","margin","witty","empirical","",NA
+"svines_scaled","C4","margin","knowledgeable","empirical","",NA
+"svines_scaled","C4","margin","prudent","empirical","",NA
+"svines_scaled","C4","margin","fanciless","empirical","",NA
+"svines_scaled","C4","margin","uninformed","empirical","",NA
+"svines_scaled","C4","margin_family_count",NA,"empirical",NA,6
+"svines_scaled","C4","pair_copula_count",NA,"bb6",NA,1
+"svines_scaled","C4","pair_copula_count",NA,"clayton",NA,8
+"svines_scaled","C4","pair_copula_count",NA,"frank",NA,8
+"svines_scaled","C4","pair_copula_count",NA,"gaussian",NA,7
+"svines_scaled","C4","pair_copula_count",NA,"gumbel",NA,3
+"svines_scaled","C4","pair_copula_count",NA,"indep",NA,90
+"svines_scaled","C4","pair_copula_count",NA,"joe",NA,20
+"svines_scaled","C4","pair_copula_count",NA,"t",NA,10
+"svines_scaled","C4","pair_copula_count",NA,"tawn",NA,6
+"svines_scaled","C4","copula_parameters",NA,NA,NA,40
+"svines_scaled","C5","margin","irritable","empirical","",NA
+"svines_scaled","C5","margin","emotionallystable","empirical","",NA
+"svines_scaled","C5","margin","calm","empirical","",NA
+"svines_scaled","C5","margin","badtempered","empirical","",NA
+"svines_scaled","C5","margin","resistant","empirical","",NA
+"svines_scaled","C5","margin","vulnerable","empirical","",NA
+"svines_scaled","C5","margin_family_count",NA,"empirical",NA,6
+"svines_scaled","C5","pair_copula_count",NA,"clayton",NA,19
+"svines_scaled","C5","pair_copula_count",NA,"frank",NA,1
+"svines_scaled","C5","pair_copula_count",NA,"gaussian",NA,13
+"svines_scaled","C5","pair_copula_count",NA,"gumbel",NA,5
+"svines_scaled","C5","pair_copula_count",NA,"indep",NA,85
+"svines_scaled","C5","pair_copula_count",NA,"joe",NA,21
+"svines_scaled","C5","pair_copula_count",NA,"t",NA,1
+"svines_scaled","C5","pair_copula_count",NA,"tawn",NA,8
+"svines_scaled","C5","copula_parameters",NA,NA,NA,45

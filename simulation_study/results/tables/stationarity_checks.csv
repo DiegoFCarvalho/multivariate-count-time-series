@@ -1,0 +1,7 @@
+dgp,check,value,bound,satisfied
+minar1_poi,spectral_radius_A,0.53811289114085881,1,TRUE
+minar1_negbin,spectral_radius_A,0.53811289114085881,1,TRUE
+mdacp1,spectral_radius_A_plus_B,0.85583842296263946,1,TRUE
+mcar1,one_norm_A,0.51000000000000001,1,NA
+mcar1,one_norm_B,0.41999999999999998,1,NA
+mcar1,one_norm_A_plus_one_norm_B,0.92999999999999994,1,TRUE

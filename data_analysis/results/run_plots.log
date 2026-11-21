@@ -1,0 +1,9 @@
+S-vine models: svines_exact, svines_scaled
+root_dir:    C:/Work/r_scripts/data_analysis_merged
+results_dir: C:/Work/r_scripts/data_analysis_merged/results
+plots_dir:   C:/Work/r_scripts/data_analysis_merged/plots
+K = 500, n_train = 85, skip_if_exists = FALSE
+[plots] start
+[plots] done in 84s
+Warnmeldung:
+Paket 'patchwork' wurde unter R Version 4.6.1 erstellt 
