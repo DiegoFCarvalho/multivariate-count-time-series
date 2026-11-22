@@ -72,7 +72,7 @@ All three runs used R 4.4.1, svines 0.3.0, rvinecopulib 1.0.0.1.0, gridExtra 2.3
 
 Local scripts and vine package versions:
 - `make_tables.R`: uses only base R, ggplot2, grid, gridExtra, grDevices. Vine package versions do not matter: run with svines 0.2.7 / rvinecopulib 0.7.3.1.0 and with svines 0.3.0 / rvinecopulib 1.0.0.1.0, it produced byte-identical CSV files, identical to the stored ones.
-- `true_moments.R`: use svines 0.3.0 and rvinecopulib 1.0.0.1.0 (the versions of the VM run). The package versions used to produce the stored true-moment output are not recorded.
+- `true_moments.R`: use svines 0.3.0 and rvinecopulib 1.0.0.1.0 (the versions of the VM run).
 
 ## Hardcoded settings
 

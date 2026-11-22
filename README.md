@@ -41,11 +41,9 @@ Local runs used Windows 11 and R 4.6.0, the VM R 4.4.1.
 | Jittering test | not used | 0.7.3.1.0 |
 | Chapter 2 | not used | not used |
 
-The package versions used to produce the stored output of `true_moments.R` are
-not recorded. The data analysis also needs kde1d 1.1.1 and loads these
+The data analysis also needs kde1d 1.1.1 and loads these
 packages from a separate library (`KIM_LIB_DIR`, see `data_analysis/README.md`).
-The default R library of the local machine has svines 0.2.7 and rvinecopulib
-0.7.3.1.0. The other VM package versions are listed in
+The other VM package versions are listed in
 `simulation_study/README.md`.
 
 ## Thesis figures and tables
